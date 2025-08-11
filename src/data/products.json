@@ -1,0 +1,163 @@
+[
+  {
+    "id": "p1",
+    "name": "StrideFlow Running Shoes",
+    "price": 89.99,
+    "category": "Shoes",
+    "rating": 4.5,
+    "description": "Lightweight road-running shoes with breathable mesh and cushioned midsole. Great for daily training and long runs."
+  },
+  {
+    "id": "p2",
+    "name": "TrailBlaze Hiking Boots",
+    "price": 129.99,
+    "category": "Shoes",
+    "rating": 4.7,
+    "description": "Durable waterproof boots designed for rocky trails and wet conditions. Superior ankle support."
+  },
+  {
+    "id": "p3",
+    "name": "AeroFit Sports T-Shirt",
+    "price": 24.99,
+    "category": "Apparel",
+    "rating": 4.1,
+    "description": "Moisture-wicking fabric keeps you cool during workouts. Classic fit with reflective logo."
+  },
+  {
+    "id": "p4",
+    "name": "FlexPro Yoga Mat",
+    "price": 39.99,
+    "category": "Accessories",
+    "rating": 4.3,
+    "description": "Non-slip, extra-cushioned mat perfect for yoga, pilates, and stretching routines."
+  },
+  {
+    "id": "p5",
+    "name": "HydraPeak Insulated Bottle 1L",
+    "price": 29.99,
+    "category": "Accessories",
+    "rating": 4.8,
+    "description": "Double-wall vacuum insulated bottle keeps drinks cold for 24h and hot for 12h. BPA-free."
+  },
+  {
+    "id": "p6",
+    "name": "PulseBand Fitness Tracker",
+    "price": 79.0,
+    "category": "Electronics",
+    "rating": 4.0,
+    "description": "Tracks steps, heart rate, sleep. 7-day battery life with app notifications and swim proof."
+  },
+  {
+    "id": "p7",
+    "name": "ZenBuds Wireless Earbuds",
+    "price": 59.0,
+    "category": "Electronics",
+    "rating": 3.9,
+    "description": "Compact earbuds with clear sound and touch controls. Noise-isolating tips, USB-C charging."
+  },
+  {
+    "id": "p8",
+    "name": "PowerCore Adjustable Dumbbells (Pair)",
+    "price": 199.99,
+    "category": "Equipment",
+    "rating": 4.6,
+    "description": "Space-saving adjustable dumbbells range 2–24 kg per hand. Quick dial system."
+  },
+  {
+    "id": "p9",
+    "name": "ComfyCloud Running Socks (3-Pack)",
+    "price": 15.99,
+    "category": "Apparel",
+    "rating": 4.2,
+    "description": "Cushioned arch support, blister-resistant material, breathable mesh zones for runners."
+  },
+  {
+    "id": "p10",
+    "name": "CitySprint Running Shoes",
+    "price": 99.0,
+    "category": "Shoes",
+    "rating": 4.4,
+    "description": "Neutral road runners with responsive foam. Ideal for tempo sessions and 5–10K races."
+  },
+
+  {
+    "id": "p11",
+    "name": "AquaPro Sports Water Bottle 750ml",
+    "price": 19.99,
+    "category": "Accessories",
+    "rating": 4.6,
+    "description": "Leak-proof flip cap, BPA-free, fits bike cages. Great for running and gym."
+  },
+  {
+    "id": "p12",
+    "name": "SwiftRun Lightweight Trainers",
+    "price": 74.5,
+    "category": "Shoes",
+    "rating": 4.3,
+    "description": "Featherweight trainers for daily jogs and casual wear. Breathable knit upper."
+  },
+  {
+    "id": "p13",
+    "name": "ThermaShield Performance Hoodie",
+    "price": 49.99,
+    "category": "Apparel",
+    "rating": 4.5,
+    "description": "Warm yet breathable hoodie for cool-weather runs. Soft lining, reflective trims."
+  },
+  {
+    "id": "p14",
+    "name": "AeroDry Sleeveless Tank Top",
+    "price": 21.0,
+    "category": "Apparel",
+    "rating": 4.0,
+    "description": "Quick-dry fabric, racerback cut, ideal for gym and summer runs."
+  },
+  {
+    "id": "p15",
+    "name": "GripMax Speed Jump Rope",
+    "price": 14.99,
+    "category": "Equipment",
+    "rating": 4.1,
+    "description": "Adjustable steel cable rope with smooth bearings for double-unders."
+  },
+  {
+    "id": "p16",
+    "name": "SteelCore Kettlebell 16kg",
+    "price": 54.99,
+    "category": "Equipment",
+    "rating": 4.7,
+    "description": "Powder-coated surface for secure grip, perfect for swings and squats."
+  },
+  {
+    "id": "p17",
+    "name": "HydraPeak Insulated Bottle 500ml",
+    "price": 24.99,
+    "category": "Accessories",
+    "rating": 4.7,
+    "description": "Compact insulated bottle for everyday use. Keeps drinks cold for 18h."
+  },
+  {
+    "id": "p18",
+    "name": "SoundPulse Sport Headband Headphones",
+    "price": 69.0,
+    "category": "Electronics",
+    "rating": 4.2,
+    "description": "Sweat-resistant headband with integrated low-leakage speakers for outdoor runs."
+  },
+  {
+    "id": "p19",
+    "name": "TrailGuard Ankle Gaiters",
+    "price": 27.5,
+    "category": "Accessories",
+    "rating": 4.1,
+    "description": "Keeps out debris and water on trails. Lightweight, quick-attach design."
+  },
+  {
+    "id": "p20",
+    "name": "UltraFlex Compression Tights",
+    "price": 34.99,
+    "category": "Apparel",
+    "rating": 4.4,
+    "description": "Graduated compression for muscle support and recovery. 4-way stretch."
+  }
+]
