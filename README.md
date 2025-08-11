@@ -11,7 +11,7 @@ Type things like:
 The query is **parsed** (price/rating/category) and **scored semantically** using a lightweight TF‑IDF + cosine similarity model that runs entirely in the browser (no backend or API key required).
 
 ## Features
-- Product catalog (10 sample items) with category/price/rating filters
+- Product catalog (20 sample items) with category/price/rating filters
 - **NLP search** with:
   - rule-based parsing of *price range*, *minimum rating*, and *category* (with synonyms, e.g., `sneakers` → `Shoes`)
   - TF‑IDF semantic matching over product name/description/category
@@ -58,11 +58,7 @@ This is intentionally simple, fast, and fully local to satisfy test constraints.
 ---
 
 ## Notable Assumptions
-- Small demo catalog (10 items) ships as JSON.
+- Small demo catalog (20 items) ships as JSON.
 - The NLP is intentionally lightweight; for production we’d use quality embeddings and a vector index (FAISS/pgvector).
 
 ---
-
-## Bonus: AI + Blockchain (2–3 sentences)
-- **Token‑gated pricing:** users holding a loyalty token/NFT could unlock dynamic discounts (verified by a smart contract) that the app reads to adjust prices at checkout.  
-- **On‑chain preferences & loyalty:** wallet‑linked preferences (e.g., favored categories) and purchase streaks can be written to a contract; the AI reads that signal to personalize search weightings and recommend products while keeping ownership of data with the user.
